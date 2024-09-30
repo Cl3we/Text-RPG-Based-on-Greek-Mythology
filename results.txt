@@ -1,0 +1,14 @@
+Player 1: Circe
+Gold: 75
+HP remaining: 0
+Stamina: 110
+Circe's Wand: Increases damage by 15
+Lesser Health Potion: Restore HP by 10
+Lesser Health Potion: Restore HP by 10
+Lesser Health Potion: Restore HP by 10
+Player 2: Argos
+Gold: 75
+HP remaining: 120
+Stamina: 150
+Argos' Fangs: Increases damage by 20
+Lesser Health Potion: Restore HP by 10
